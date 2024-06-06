@@ -22,3 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+![image](https://github.com/jctorres10/act4-0450/assets/143548160/42bb19e2-3328-4440-a5fa-cad4413af670)
+![image](https://github.com/jctorres10/act4-0450/assets/143548160/fface028-6b64-469c-8a3a-6d7f92f2b764)
